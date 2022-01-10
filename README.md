@@ -25,4 +25,4 @@ Contact Me (i guess?)
 - Discord: Yafes#1879
 - Instagram: [m.yafes](https://www.instagram.com/m.yafes/)
 <p align="center"> My poor Github stats that I hope will get better ASAP:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=might4&show_icons=true&theme=gotham"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=might4&count_private=true&show_icons=true&theme=gotham"/>
