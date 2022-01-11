@@ -4,13 +4,15 @@
 ### Name's Yafes, and am currently at a turning point in my life!
 (It's just a feeling btw not like I had that much of an experience on life)
 
+Current Jobs:
+---
 - **Director Of Technology** @ **Askıda Terapi**
 - Kind of an **Intern** @ **Bilişim School** 
 
 
-Currently working on:
+Things that I currently working on:
 ----
-> - Not yet announced projects (sadly just abandoned one of announced ones...)
+- Not yet announced projects (sadly just abandoned one of announced ones...)
 
 2021 plans: 
 ----
