@@ -26,5 +26,13 @@ Contact Me (i guess?)
 - Twitter: [yafeswastaken](https://twitter.com/yafeswastaken)
 - Discord: Yafes#1879
 - Instagram: [m.yafes](https://www.instagram.com/m.yafes/)
+
+Achievements
+----
+<img align="left" src="https://user-images.githubusercontent.com/62028911/152577248-40363f16-bb59-4cd2-8669-d34327c11e73.png"> </img>
+## Arctic Code Vault ***NON***-Contributor
+Mustafa Yafes Akbaş contributed no code to any repositories in the 2020 GitHub Archive Program and become one of the few people who can't get their being in 2020 Github Archive Program. So he decided to revert knock the hell out of off this achievement and simply revert its colors. We(Github) have nothing to do with this stupid circumstance.
+
+----
 <p align="center"> My poor Github stats that I hope will get better ASAP:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=might4&count_private=true&show_icons=true&theme=gotham"/>
