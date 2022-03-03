@@ -14,7 +14,7 @@ Things that I currently working on:
 ----
 - Not yet announced projects (sadly just abandoned one of announced ones...)
 
-2021 plans: 
+2022 plans: 
 ----
 > - leaning more on open source
 > - writing blog posts and articles around coding stuff
