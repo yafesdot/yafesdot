@@ -8,11 +8,12 @@ Current Jobs:
 ---
 - **Director Of Technology** @ **Askıda Terapi**
 - Kind of an **Intern** @ **Bilişim School** 
-
+- **Head Coder** & **Co-Founder** **@roachstation**
+- **Head Coder** & **Co-Founder** **@turkbus**
 
 Things that I currently working on:
 ----
-- Not yet announced projects (sadly just abandoned one of announced ones...)
+- Coding and maintaining Space Statıon 13 server named RoachStatıon.
 
 2022 plans: 
 ----
