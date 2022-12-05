@@ -8,7 +8,7 @@ Current Jobs:
 ---
 - **Director Of Technology** @ **Askıda Terapi**
 - Kind of an **Intern** @ **Bilişim School** 
-- **Head Coder** & **Co-Founder** **@roachstation**
+- **Head Coder** & **Co-Founder** **@roachstation** now kinda merged with **Psychonauts Station**
 - **Head Coder** & **Co-Founder** **@turkbus**
 
 Things that I currently working on:
