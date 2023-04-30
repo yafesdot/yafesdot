@@ -24,7 +24,7 @@ Things that I currently working on:
 Contact Me (i guess?)
 ----
 - LinkedIn: [Mustafa Yafes Akbaş](https://linkedin.com/in/myafes)
-- Twitter: [yafeswastaken](https://twitter.com/yafeswastaken)
+- Twitter: [yafesdot](https://twitter.com/yafesdot)
 - Discord: Yafes#1879
 - Instagram: [m.yafes](https://www.instagram.com/m.yafes/)
 
